@@ -1,0 +1,10 @@
+# This is a comment
+
+# Ignore a specific file
+salsa-database
+
+# Ignore a file extension
+** .nc
+
+# Ignore a folder
+Data/
