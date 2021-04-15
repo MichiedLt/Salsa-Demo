@@ -1,3 +1,7 @@
-Research Progress:
+Research Progress
 
-Todo: Need to test the initial recipe
+To do: 
+
+Need to test the initial recipe
+
+Make changes to recipe if needed
